@@ -1,0 +1,2 @@
+# test basic release commands
+> clean;compile;test;app/run;show app/graalvm-native-image:packageBin

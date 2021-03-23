@@ -1,0 +1,27 @@
+# Bloop
+.bloop
+
+# Build Server Protocols
+.bsp
+
+# Java
+*.class
+*.log
+
+# SBT
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# IntelliJ-IDE
+.idea
+
+# Scala-IDE
+.scala_dependencies
+.worksheet
